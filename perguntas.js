@@ -9,9 +9,10 @@ criaCartao(
     'O elemento que divide a célula pra reprodução'
 )
 criaCartao(
-    'Filosofia',
-    'Qual o período de Platão?',
-    'Período da Grécia antiga'
+    'Tecnologia',
+    'o que é API?',
+    'Application Programming Interface", ou, em português, Interface de Programação de Aplicações. Em termos simples, é um conjunto de regras e especificações que permite que diferentes softwares se comuniquem e interajam entre si, como se fosse uma ponte entre diferentes sistemas. 
+'
 )
 
 criaCartao(
